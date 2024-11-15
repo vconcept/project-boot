@@ -1,0 +1,5 @@
+Design Choices
+Color Scheme: I used a simple and neutral color scheme (gray color) for a clean look.
+Flexbox Layout: Implemented flexbox for layout consistency and responsiveness.
+Media Queries: Adjusted product card layout with media queries for tablets and mobile devices.
+Interactive Elements: Added hover effects for buttons and product cards to enhance user experience.
